@@ -71,6 +71,23 @@ Sebelum memulai, pastikan Anda telah menginstal:
     flutter run
     ```
 
-## 📁 Struktur Proyek
 
-Struktur direktori `lib` diorganisasikan sebagai berikut untuk memudahkan pengembangan dan pemeliharaan:
+## 🤝 Berkontribusi
+
+Kontribusi Anda sangatlah berharga! Jika Anda ingin membantu mengembangkan proyek ini, silakan ikuti langkah-langkah berikut:
+
+1.  **Fork** repository ini.
+2.  Buat **branch** baru untuk fitur atau perbaikan Anda (`git checkout -b fitur/fitur-baru-anda`).
+3.  **Commit** perubahan Anda (`git commit -m 'Menambahkan fitur X'`).
+4.  **Push** ke branch Anda (`git push origin fitur/fitur-baru-anda`).
+5.  Buka **Pull Request** di repository ini.
+
+Untuk perubahan besar, disarankan untuk membuka *issue* terlebih dahulu untuk mendiskusikannya.
+
+## 📄 Lisensi
+
+Proyek ini belum memiliki lisensi. Anda dipersilakan untuk menambahkan file `LICENSE` (misalnya, [MIT License](https://choosealicense.com/licenses/mit/)) untuk menentukan cara orang lain dapat menggunakan kode Anda.
+
+## 👤 Penulis
+
+Dibuat dengan ❤️ oleh [Rizky Hibatullah](https://github.com/rizkyhibatullah).
